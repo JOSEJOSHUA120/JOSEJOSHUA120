@@ -14,7 +14,7 @@
 
 ### 🛠️ Tools
 
-`VS Code` · `Android Studio` · `Git` · `GitHub` · `Figma`
+`VS Code` · `Android Studio` · `Git` · `GitHub` · `Figma` . `Mysql` . `Html` . `Css` . `Javascript` . `Php` . `Laravel` . `Blade`
 
 ---
 
