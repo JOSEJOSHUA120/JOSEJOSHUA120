@@ -1,17 +1,22 @@
-# Hi, I'm Jose Joshua 👋
+# 👋 Hi, I'm Jose Joshua
 
-I'm a **Web Developer and Mobile Developer** currently studying at **Politeknik Negeri Batam**.
+> 💻 Web Developer & Mobile Developer
+> 🎓 Informatics Student at Politeknik Negeri Batam
 
-I enjoy building websites and mobile applications while learning new technologies.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-* 🎓 Informatics student at Politeknik Negeri Batam
-* 💻 Web Developer & Mobile Developer
-* ♟️ I like playing chess
-* 🎌 Anime fan — Code Geass & One Piece
+* 💻 Web & Mobile Developer
+* 🎓 Informatics Student
+* ♟️ Chess Player
+* 🚀 Always learning and building
 
-## Technologies
+---
+
+## 🛠️ Skills
+
+**🌐 Web Development**
 
 * HTML
 * CSS
@@ -19,15 +24,26 @@ I enjoy building websites and mobile applications while learning new technologie
 * PHP
 * Blade
 * Laravel
+
+**🎨 Design**
+
 * Figma
 
-## Tools
+---
 
-* Visual Studio Code
-* Android Studio
-* Git & GitHub
+## 🔧 Tools
 
-## Contact
+* 💻 VS Code
+* 📱 Android Studio
+* 🌿 Git & GitHub
 
-* GitHub: https://github.com/josejoshua120
-* Email: [josejoshuahutagaol@gmail.com](mailto:josejoshuahutagaol@gmail.com)
+---
+
+## 📫 Contact
+
+* 🐙 GitHub: [JoseJoshua120](https://github.com/josejoshua120)
+* 📧 Email: [josejoshuahutagaol@gmail.com](mailto:josejoshuahutagaol@gmail.com)
+
+---
+
+⭐ **Thanks for visiting my profile!**
