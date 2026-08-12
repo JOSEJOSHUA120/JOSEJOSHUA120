@@ -20,7 +20,6 @@
 
 ### 📫 Contact
 
-🐙 [GitHub](https://github.com/josejoshua120)
 📧 [josejoshuahutagaol@gmail.com](mailto:josejoshuahutagaol@gmail.com)
 
 ---
