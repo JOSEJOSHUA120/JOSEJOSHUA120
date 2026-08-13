@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Jose Joshua
 
-💻 **Web Developer** · 📱 **Mobile Developer**
+💻 **Web Developer** · 📱 **Mobile Developer** ·
 
-### 🧑‍💻 About Me
+🚀 A Bit About Me :
 
-🎓 Politeknik Negeri Batam
-🚀 Building Web & Mobile Apps
-💡 Tech enthusiast
+🎓 *I'm studying at Politeknik Negeri Batam.*
+🌐 *I'm building modern web & mobile applications.*
+🚀 *I like playing chess*
 
-### 🛠️ Tools
+### 🛠️ Tech Stack
 
-`VS Code` · `Android Studio` · `Git` · `GitHub` · `Figma` . `Mysql` . `Html` . `Css` . `Javascript` . `Php` . `Laravel` . `Blade`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,mysql,git,github,vscode,androidstudio,figma" />
+</p>
 
-### 📫 Contact
+### 📫 Contact me :
 
-📧 [josejoshuahutagaol@gmail.com](mailto:josejoshuahutagaol@gmail.com)
+📧 **[josejoshuahutagaol@gmail.com](mailto:josejoshuahutagaol@gmail.com)**
 
-⭐ **Keep learning. Keep building.**
+> **Learn. Build. Improve. Repeat.** 🚀
