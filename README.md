@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose Joshua
 
-💻 **Web Developer** · 📱 **Mobile Developer** · 🎓 **Informatics Student**
+💻 **Web Developer** · 📱 **Mobile Developer**
 
 ### 🧑‍💻 About Me
 
